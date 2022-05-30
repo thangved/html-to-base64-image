@@ -1,7 +1,7 @@
 {
 	"name": "html-to-base64-image",
 	"description": "Html to base64 Image",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"main": "index.js",
 	"repository": "git@github.com:thangved/html-to-base64-image.git",
 	"author": "thangved <thangved02@gmail.com>",
