@@ -1,5 +1,6 @@
 {
 	"name": "html-to-base64-image",
+	"description": "Html to base64 Image",
 	"version": "1.0.0",
 	"main": "index.js",
 	"repository": "git@github.com:thangved/html-to-base64-image.git",
@@ -14,5 +15,13 @@
 	"license": "MIT",
 	"devDependencies": {
 		"eslint": "^8.16.0"
-	}
+	},
+	"keywords": [
+		"nodejs",
+		"html",
+		"base64",
+		"image",
+		"html to image",
+		"thangved"
+	]
 }
